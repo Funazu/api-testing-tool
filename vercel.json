@@ -1,0 +1,5 @@
+{
+  "buildCommand": ".vercel/setup.sh && bun install && bun run build",
+  "installCommand": "bun install",
+  "outputDirectory": ".output/public"
+}
